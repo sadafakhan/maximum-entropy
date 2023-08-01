@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW5, 02/06/2022. Calculates empirical expectation of a MaxEnt classifier."""
-
 import os
 import sys
 from collections import defaultdict

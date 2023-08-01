@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW5, 02/06/2022. Classifies test data given a MaxEnt model learned from training data."""
-
 import os
 import sys
 import numpy as np

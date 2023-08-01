@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 ./calc_model_exp.py $@
+python3 src/calc_model_exp.py $@

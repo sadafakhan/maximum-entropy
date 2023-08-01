@@ -1,5 +1,3 @@
-"""Sadaf Khan, LING572, HW5, 02/06/2022. Calculates model expectation of a MaxEnt classifier."""
-
 import sys
 import os
 import numpy as np
