@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 ./maxent_classify.py $@
+python3 src/maxent_classify.py $@

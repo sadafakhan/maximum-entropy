@@ -1,5 +1,5 @@
 # maximum-entropy
-Implements a maximum entropy model to classify text documents. 
+```maximum-entropy``` implements a maximum entropy model to classify text documents. 
 
 ```calc_emp_exp.sh```calculates the empirical expectation of a MaxEnt classifier.
 
